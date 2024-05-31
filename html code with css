@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Informazioni utili!</title>
+        <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+    <h1>La pizza</h1>
+    
+    <h2>ecco una ricerca sulla pizza</h2>
+    <p>La pizza è un prodotto gastronomico italiano, costituito da una base lievitata ricavata da un impasto di farina e acqua,
+        <p>>condita con vari ingredienti e cotta ad alta temperatura, tradizionalmente in un forno a legna.</p>
+        <p> termine, nato nell'Italia meridionale con varie sfumature di significato, si è diffuso in tutto il paese con diverse grafie regionali,</p>
+       <p> come confermano, ad esempio, la pinza (Veneto) o la pitta (Calabria).</p>
+        <p>La versione più conosciuta della pizza è però quella napoletana che, nel diciannovesimo secolo,</p>
+        <p>grazie agli imprenditori partenopei, si impose scalzando le altre versioni.</p>
+       <p> Ad essa venne riconosciuto il marchio STG nel 2004; nel 2017 venne riconosciuta patrimonio immateriale dell'umanità UNESCO.</p>
+        <p>Prodotto d'eccellenza della cucina italiana, dopo il riso, la pizza è l’alimento più mangiato al mondo,</p>
+        <p>seguito dalla pasta. Inoltre "pizza" è la parola italiana più famosa al mondo, seguita da "ciao". </p>
+             <ul>
+                <h2>Ecco gli ingredienti per una margherita </h2>
+                   <li>impasto per pizza</li>
+                   <li>sugo</li>
+                   <li>mozzarella</li>
+                   <li>basilico</li>
+             </ul>
+     <img src="https://italpizza.com/wp-content/uploads/2023/03/5.-Storia-della-pizza-Margherita.png" alt="Image 1">
+
+     <iframe src="https://www.meteoblue.com/it/tempo/widget/daily/isole-eolie_italia_6941096?geoloc=fixed&days=5&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 270px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/it/tempo/settimana/isole-eolie_italia_6941096?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+</body>
+</html>
