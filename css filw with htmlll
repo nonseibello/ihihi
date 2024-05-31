@@ -1,0 +1,24 @@
+@keyframes color-change {
+    0% {
+      color: green
+    }
+
+    50% {
+      color: rgb(214, 1, 1);
+    }
+
+    100% {
+      color: white;
+    }
+  }
+
+
+body {
+    animation: color-change 3s infinite;
+    background-color: rgb(153, 101, 6)
+}
+
+h1 {
+    animation: color-change 3s infinite;
+}
+    
